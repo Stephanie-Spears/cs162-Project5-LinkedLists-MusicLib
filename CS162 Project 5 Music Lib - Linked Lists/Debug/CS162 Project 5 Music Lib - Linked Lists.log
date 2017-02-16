@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  Generating Code...
+  Compiling...
+  UserInterface.cpp
+c:\users\stephanie\documents\visual studio 2015\projects\cs162 project 5 music lib - linked lists\cs162 project 5 music lib - linked lists\userinterface.cpp(40): warning C4101: 'title': unreferenced local variable
+c:\users\stephanie\documents\visual studio 2015\projects\cs162 project 5 music lib - linked lists\cs162 project 5 music lib - linked lists\userinterface.cpp(42): warning C4101: 'duration': unreferenced local variable
+  SongList.cpp
+  Generating Code...
+  CS162 Project 5 Music Lib - Linked Lists.vcxproj -> C:\Users\Stephanie\Documents\Visual Studio 2015\Projects\CS162 Project 5 Music Lib - Linked Lists\Debug\CS162 Project 5 Music Lib - Linked Lists.exe
